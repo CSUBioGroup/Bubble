@@ -15,8 +15,8 @@ We propose Bubble, an autoencoder-based model that is constrained by the matched
 Clone this repository.
 
 ```shell
-git clone https://github.com/CSUBioGroup/Bubble.git
-cd Bubble
+git clone https://github.com/CSUBioGroup/Bubble_github.git
+cd Bubble_github
 ```
 
 ### Usage
